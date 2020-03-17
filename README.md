@@ -1,6 +1,9 @@
 # REPO MOVED
 Please refer to the new opensource monorepo from Otherwise: https://github.com/owsas/opensource/tree/master/packages/parse-service
 
+## Switching to new npm package
+The new npm package is named `parse-service` in npm https://www.npmjs.com/package/parse-service
+
 # Parse Service
 
 ![Travis CI](https://travis-ci.org/owsas/parse-service.svg?branch=master)
